@@ -7,8 +7,3 @@
 - 🎮 <a href="https://steamcommunity.com/id/kamtozu">Steam Profile</a>. <br/>
 </div> 
 <br/>
-<br/>
-<div align="center"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokboeruealp&hide_border=true&layout=compact"/>
-</div>
-<br/>
