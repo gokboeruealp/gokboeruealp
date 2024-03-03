@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Berk</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gokboeruealp&label=Profile%20views&color=0e75b6&style=flat" alt="gokboeruealp" /> </p>
-
-<p align="left"> <a href="https://twitter.com/borboerue" target="blank"><img src="https://img.shields.io/twitter/follow/borboerue?logo=twitter&style=for-the-badge" alt="borboerue" /></a> </p>
 
 - 🎮 I'm a solo indie game developer, and I work with Unreal Engine and Unity. <br/>
 - 🌍 I'm also interested in GIS related topics. <br/>
